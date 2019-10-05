@@ -1,0 +1,76 @@
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  html, body {
+  height: 100%;
+}
+
+  #main_developer {
+     margin-top: 50px;
+     font-size: 100px;
+  }
+
+  #owner_picture {
+  margin: 50px 0px 150px 400px;
+  border: 5px inset gold;
+  border-width: 20px;
+  width: 50%;
+  height: auto;
+}
+
+
+  #homepage /* Footer Links */ {
+  text-decoration: none;
+  font-size: 45px;
+  color: #ffffff;
+}
+
+  #Classes /* Footer Links */ {
+    text-decoration: none;
+    font-size: 45px;
+    color: #ffffff;
+  }
+
+
+  #owner_pdiv /*div tag for owner_p */ {
+    color: black;
+    font-weight: bold;
+    font-size: 45px;
+    text-indent: 270px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+
+  #owner_container {
+    min-height: 100%;
+    background-image: url(https://www.jesusislife.in/wp-content/uploads/2019/05/Savin-NY-Website-Background-Web.jpg);
+  }
+
+  #owner_links {
+
+  }
+
+  #owner_footer {
+    background-color: #242729;
+    position: relative;
+    height: 100px;
+    clear: both;
+    color: white;
+}
+
+  li {
+
+    display: flex;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 26px;
+  }
+
+  li a:hover {
+  background-color: rgb(65,65,65);
+
+  }

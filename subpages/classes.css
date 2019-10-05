@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+  html, body {
+    height: 100%;
+  }
+
+  #classes_subpages {
+    text-align: center;
+  }
+
+
+  #classes_pdiv /* This style the introductory paragraph or the First paragraph */ {
+    color: black;
+    font-weight: bold;
+    font-size: 45px;
+    text-indent: 270px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+
+  #classes_body {
+
+  }
+
+  #classes_container {
+    min-height: 100%;
+    background-image: url(https://www.jesusislife.in/wp-content/uploads/2019/05/Savin-NY-Website-Background-Web.jpg);
+  }
+
+  #classes_links {
+
+  }
+
+  #classes_footer {
+    background-color: #242729;
+    position: relative;
+    height: 100px;
+    clear: both;
+    color: white;
+  }
+
+  li {
+    display: flex;
+    float: left;
+    display: block;
+    text-align: center;
+    padding:26px;
+  }
+
+  li a:hover {
+  background-color: rgb(65,65,65);
+  }
+
+  #homepage {
+    text-decoration: none;
+    font-size: 45px;
+    color: #ffffff;
+  }
+
+  #owner {
+    text-decoration: none;
+    font-size: 45px;
+    color: #ffffff;
+  }
